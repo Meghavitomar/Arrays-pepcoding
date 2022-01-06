@@ -1,7 +1,6 @@
-import java.io.*;
-import java.util.*;
-
-public class spanOfArray {
+import java.io.*;                                        // max ko ham -infinity islie lenge qki har no. 
+import java.util.*;                                      // -infinity se bada hai to usse hame array ki
+public class spanOfArray {                               // max value mil jaegi.
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
